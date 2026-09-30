@@ -6,3 +6,4 @@ config.yaml
 *.sqlite3
 data/
 .pytest_cache/
+set-token.ps1
